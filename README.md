@@ -42,3 +42,4 @@ Download the latest installer from the **[Releases](https://github.com/oktovaaaa
 ---
 
 © 2026 Flotil. Created by [Oktovaaaaa](https://github.com/oktovaaaaa).
+
